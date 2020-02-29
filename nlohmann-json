@@ -1,9 +1,9 @@
 {
 	"url": "https://www.github.com/nlohmann/json", 
-		"versions" : {
-			"1.0.0": "973c52dd4a9e92ede5ca4afe8b3d01ef677dc57f",
-			"include_dirs": ["single_include"],
-			"static_libraries": [],
-			"dynamic_libraries": []
-		}
+	"versions" : {
+		"1.0.0": "973c52dd4a9e92ede5ca4afe8b3d01ef677dc57f",
+		"include_dirs": ["single_include"],
+		"static_libraries": [],
+		"dynamic_libraries": []
+	}
 }
